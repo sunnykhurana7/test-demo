@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+}
+
+.text-area {
+    margin-top: 10px;
+}
+
+.text-area p {
+    margin: 0;
+    font-weight: bold;
+}
+
+.area-define {
+    width: 46%;
+    display: inline-block;
+    margin-left: 13px;
+}
+
+.option-area {
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.option-area select {
+    height: 30px;
+    width: 210px;
+    float: right;
+    border: none;
+    outline: none;
+}

@@ -1,0 +1,14 @@
+.Column {
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+.loader {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 53%;
+}
